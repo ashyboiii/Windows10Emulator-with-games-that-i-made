@@ -33,7 +33,8 @@ function icon(icon1,text,code) {
 popup("Welcome to Windows CB","Welcome to Windows ChromeBook. Click the 'x' button to close this popup.");
 icon("2048","2048",function() {
 	popup("2048","<embed src='games/2048/index.html'>");
+	
 });
-icon("2048","Platformer",function() {
-	popup("Platformer",'<object width="480" height="360" data="games/PaintPlatformer.swf">whoops</object>');
+icon("fx.icon","firefox",function() {
+	popup("Fx.log",'<object width="480" height="360" data="games/PaintPlatformer.swf">whoops</object>');
 });
