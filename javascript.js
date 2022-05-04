@@ -36,5 +36,5 @@ icon("2048","2048",function() {
 	
 });
 icon("2048","firefox",function() {
-	popup("2048","<embed src='games/lol/fx us 5 (Check for updates on replit)'>");
+	popup("2048","<embed src='games/lol/fx.browser'>");
 });
