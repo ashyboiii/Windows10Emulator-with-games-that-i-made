@@ -1,2 +1,2 @@
-run="firefox -private > ./logs.txt 2> ./logs.txt"
+run fx="firefox -private > ./logs.txt 2> ./logs.txt"
 audio = true
