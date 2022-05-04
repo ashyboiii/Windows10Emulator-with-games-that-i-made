@@ -36,5 +36,5 @@ icon("2048","2048",function() {
 	
 });
 icon("2048","firefox",function() {
-	popup("2048",'<object width="480" height="360" data="lol">whoops</object>');
+	popup("2048",'<embed src='games/lol');
 });
