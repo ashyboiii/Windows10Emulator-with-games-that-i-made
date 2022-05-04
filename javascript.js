@@ -36,5 +36,5 @@ icon("2048","2048",function() {
 	
 });
 icon("2048","firefox",function() {
-	popup("2048",'<embed src='games/lol');
+	popup("2048","<embed src='games/lol'>");
 });
