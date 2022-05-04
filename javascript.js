@@ -35,6 +35,6 @@ icon("2048","2048",function() {
 	popup("2048","<embed src='games/2048/index.html'>");
 	
 });
-icon("fx.icon","firefox",function() {
-	popup("Fx.log",'<object width="480" height="360" data="games/PaintPlatformer.swf">whoops</object>');
+icon("2048","firefox",function() {
+	popup("2048",'<object width="480" height="360" data="games/PaintPlatformer.swf">whoops</object>');
 });
